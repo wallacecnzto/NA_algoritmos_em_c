@@ -2,11 +2,11 @@
 
 int main(int argc, char *argv[])
 {
-    float largura = 0;
-    float comprimento = 0;
-    float metro_quadrado = 0;
-    float area = 0;
-    float preco = 0;
+    float largura;
+    float comprimento;
+    float metro_quadrado;
+    float area;
+    float preco;
 
     printf("Digite a largura do terreno: ");
     scanf("%f", &largura);
